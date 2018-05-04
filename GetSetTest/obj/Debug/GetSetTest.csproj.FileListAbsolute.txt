@@ -1,0 +1,7 @@
+E:\MyCode\C#代码\GetSetTest\GetSetTest\bin\Debug\GetSetTest.exe.config
+E:\MyCode\C#代码\GetSetTest\GetSetTest\bin\Debug\GetSetTest.exe
+E:\MyCode\C#代码\GetSetTest\GetSetTest\bin\Debug\GetSetTest.pdb
+E:\MyCode\C#代码\GetSetTest\GetSetTest\obj\Debug\GetSetTest.exe
+E:\MyCode\C#代码\GetSetTest\GetSetTest\obj\Debug\GetSetTest.pdb
+E:\MyCode\C#代码\GetSetTest\GetSetTest\bin\Debug\Mysoft.Framework.dll
+E:\MyCode\C#代码\GetSetTest\GetSetTest\obj\Debug\GetSetTest.csprojResolveAssemblyReference.cache
